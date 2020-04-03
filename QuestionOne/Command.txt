@@ -1,0 +1,2 @@
+C:\Users\Som\Desktop\GitHub>dotnet new mvc -n QuestionOne
+dotnet dev-certs https --trust
